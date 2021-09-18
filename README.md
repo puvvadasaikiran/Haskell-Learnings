@@ -4,6 +4,7 @@ Functional programming is an elegant, concise and powerful programming paradigm.
 ## COURSE DETAILS
 
 Introduction To Haskell Programming by CMI
+
 Course URL : https://onlinecourses.nptel.ac.in/noc20_cs79/preview
 
 ## COURSE LEVEL
