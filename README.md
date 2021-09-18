@@ -1,5 +1,9 @@
 # Haskell-Learnings
-Functional programming is an elegant, concise and powerful programming paradigm. This style encourages breaking up programming tasks into logical units that can be easily translated into provably correct code. Haskell brings together the best features of functional programming and is increasingly being used in the industry, both for building rapid prototypes and for actual deployment. 
+Functional programming is an elegant, concise and powerful programming paradigm. 
+
+This style encourages breaking up programming tasks into logical units that can be easily translated into provably correct code. 
+
+Haskell brings together the best features of functional programming and is increasingly being used in the industry, both for building rapid prototypes and for actual deployment. 
 
 ## COURSE DETAILS
 
